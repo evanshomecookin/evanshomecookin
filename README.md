@@ -10,14 +10,12 @@ evanhundred/evanhundred is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-  <summary>
-    Wakatime Dashboard
-  </summary>
+###Wakatime Dashboard
   <figure>
-    <img style="border-radius:4px!important;width:800px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/80fbbc14-7f1a-45af-8303-8721ff0d7d9e.svg" />
+    <img style="border-radius:4px!important;width:600px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/80fbbc14-7f1a-45af-8303-8721ff0d7d9e.svg" />
   </figure>
   <br />
-  <figure><img src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/14ed1254-1eb8-4fc3-aa2b-59a4ac2446d2.svg"></img></figure>
+  <figure><img style="border-radius:4px!important;width:600px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/14ed1254-1eb8-4fc3-aa2b-59a4ac2446d2.svg"></img></figure>
   <br />
-  <figure><img style="border-radius:4px!important;width:800px" style="border-radius:4px!important;width:800px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/52596b5a-98b5-4f7c-a20e-463175f69ae6.svg"></img></figure>
+  <figure><img style="border-radius:4px!important;width:600px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/52596b5a-98b5-4f7c-a20e-463175f69ae6.svg"></img></figure>
   
