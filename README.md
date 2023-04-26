@@ -11,7 +11,3 @@ You can click the Preview link to take a look at your changes.
 --->
 
   <figure><img style="border-radius:4px;width:600px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/14ed1254-1eb8-4fc3-aa2b-59a4ac2446d2.svg"></img></figure>
-  
-<figure>
-  <a href="https://wakatime.com"><img style="border-radius:4px;width:600px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/6248d942-0093-4fc8-9e25-d5b8d45b533e.png" /></a>
-</figure>
