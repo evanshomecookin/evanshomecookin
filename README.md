@@ -10,11 +10,9 @@ evanhundred/evanhundred is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-<details>
   <summary>
     Wakatime Dashboard
   </summary>
-  <p>
-    <img style="border-radius:4px;width:200px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/80fbbc14-7f1a-45af-8303-8721ff0d7d9e.svg"></img>
-  </p>
-</details>
+  <figure>
+    <img style="border-radius:4px;width:800px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/80fbbc14-7f1a-45af-8303-8721ff0d7d9e.svg" />
+  </figure>
