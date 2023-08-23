@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <!---
 TODO: detect presence of light or dark mode, and display badge with appropriate color scheme
 --->
-<figure><img style="border-radius:4px;width:600px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/14ed1254-1eb8-4fc3-aa2b-59a4ac2446d2.svg"></img></figure>
+<figure><img style="border-radius:4px;width:500px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/14ed1254-1eb8-4fc3-aa2b-59a4ac2446d2.svg"></img></figure>
 
 <!---
 `(e) 050123`
