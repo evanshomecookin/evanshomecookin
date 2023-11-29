@@ -37,6 +37,10 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
 
 <figure><embed src="https://wakatime.com/share/@evan100/759d43fc-b4c9-446a-b7f9-f140a6317846.svg"></embed></figure>
 
+<figure><embed src="https://wakatime.com/share/@evan100/f11dda49-1292-45e2-bfdb-fc55e062b8a9.svg"></embed></figure>
+
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@evan100/7c453842-5986-41ce-bf2a-678ed31bbe25.png" /></a>
+
 <!---
 `(e) 050123`
 --->
