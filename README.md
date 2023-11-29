@@ -1,6 +1,6 @@
-<div style="display:flex;margin-bottom:10px">
-<h2 align="center" style="font-size:40px">📖</h2><h2 style="font-size:20px"> evanryan.dev | full-stack developer</h2>
-</div>
+
+<p align="center" style="font-size:40px">📖</p><p style="font-size:20px"> evanryan.dev | full-stack developer</p>
+
 <!--
 - 👋 Hi, I’m Evan, a fullstack developer working out of New York City
 - 👀 I’m interested in building projects and community
