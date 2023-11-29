@@ -32,12 +32,9 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60"/>
 </div>
-
+<!--
 <figure><img style="border-radius:4px;width:500px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/14ed1254-1eb8-4fc3-aa2b-59a4ac2446d2.svg"></img></figure>
-
-<figure><embed src="https://wakatime.com/share/@evan100/759d43fc-b4c9-446a-b7f9-f140a6317846.svg"></embed></figure>
-
-<figure><embed src="https://wakatime.com/share/@evan100/f11dda49-1292-45e2-bfdb-fc55e062b8a9.svg"></embed></figure>
+-->
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@evan100/7c453842-5986-41ce-bf2a-678ed31bbe25.png" /></a>
 
