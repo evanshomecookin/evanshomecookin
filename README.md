@@ -39,7 +39,7 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60"/>
 </div>
-  <div  style="height:30px">
+  <div  style="height:10px">
   &nbsp;
   </div>
 <div>
