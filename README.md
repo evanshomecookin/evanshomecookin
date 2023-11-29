@@ -1,4 +1,4 @@
-<h2 align="center" style="font-size:20px;margin-bottom:10px"><span style="font-size:30px">📖</span> evanryan.dev | full-stack developer</h2>
+<h2 align="center" style="font-size:20px;margin-bottom:10px"><span style="font-size:80px">📖</span> evanryan.dev | full-stack developer</h2>
 
 <!--
 - 👋 Hi, I’m Evan, a fullstack developer working out of New York City
