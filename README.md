@@ -9,6 +9,8 @@
   Building community in NYC and the world.
 </div>
 
+<div style="height:20px">&nbsp;</div>
+
 <!--
   <p style="font-size:30px;font-weight:500"> </p>
 - 👋 Hi, I’m Evan, a fullstack developer working out of New York City
