@@ -1,5 +1,5 @@
 <div "display:flex">
-<h1 align="center" style="border:none"><a href="https://evanryan.dev" rel="noreferrer" target="_blank">📖 evanryan.dev</a> | full-stack developer</h1>
+<h1 align="center"><a href="https://evanryan.dev">📖 evanryan.dev</a> | full-stack developer</h1>
 </div>
 
 <div align="center">
