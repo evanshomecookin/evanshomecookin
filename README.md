@@ -1,6 +1,10 @@
 <div "display:flex">
 <h1 align="center" style="border:none"><a href="https://evanryan.dev" rel="noreferrer" target="_blank">📖 evanryan.dev</a> | full-stack developer</h1>
 </div>
+
+<p>
+  Hi, I'm Evan.
+</p>
 <!--
   <p style="font-size:30px;font-weight:500"> </p>
 - 👋 Hi, I’m Evan, a fullstack developer working out of New York City
