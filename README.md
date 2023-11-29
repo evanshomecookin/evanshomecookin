@@ -1,7 +1,8 @@
 <div "display:flex">
-<h1 align="center" style="border:none">📖</h1><p style="font-size:30px;font-weight:500"> evanryan.dev | full-stack developer</p>
+<h1 align="center" style="border:none">📖 evanryan.dev | full-stack developer</h1>
 </div>
 <!--
+  <p style="font-size:30px;font-weight:500"> </p>
 - 👋 Hi, I’m Evan, a fullstack developer working out of New York City
 - 👀 I’m interested in building projects and community
 - 💞️ I’m looking to collaborate on fun and original web apps
