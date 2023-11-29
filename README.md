@@ -2,9 +2,9 @@
 <h1 align="center" style="border:none"><a href="https://evanryan.dev" rel="noreferrer" target="_blank">📖 evanryan.dev</a> | full-stack developer</h1>
 </div>
 
-<p align="center">
-  `Hi, I'm Evan.`
-</p>
+<div align="center">
+  ```Hi, I'm Evan.```
+</div>
 
 <!--
   <p style="font-size:30px;font-weight:500"> </p>
