@@ -1,5 +1,5 @@
 <div "display:flex">
-<p align="center" style="font-size:40px">📖</p><p style="font-size:20px"> evanryan.dev | full-stack developer</p>
+<h1 align="center" style="font-size:40px">📖</h1><p style="font-size:30px;font-weight:500"> evanryan.dev | full-stack developer</p>
 </div>
 <!--
 - 👋 Hi, I’m Evan, a fullstack developer working out of New York City
