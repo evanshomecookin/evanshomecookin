@@ -1,6 +1,4 @@
-<div "display:flex">
 <h1 align="center"><a href="https://evanryan.dev">📖 evanryan.dev</a> | full-stack developer</h1>
-</div>
 
 <div align="center">
   Hi, I'm Evan.
