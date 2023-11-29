@@ -1,4 +1,4 @@
-<div style="margin-bottom:10px">
+<div style="display:flex;margin-bottom:10px">
 <h2 align="center" style="font-size:40px">📖</h2><h2 style="font-size:20px"> evanryan.dev | full-stack developer</h2>
 </div>
 <!--
