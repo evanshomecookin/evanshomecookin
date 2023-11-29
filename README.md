@@ -3,7 +3,10 @@
 </div>
 
 <div align="center">
-  ```Hi, I'm Evan.```
+  Hi, I'm Evan.
+</div>
+<div align="center">
+  Building community in NYC and the world.
 </div>
 
 <!--
