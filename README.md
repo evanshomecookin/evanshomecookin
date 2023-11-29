@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 TODO: detect presence of light or dark mode, and display badge with appropriate color scheme
 --->
 
-<div style="height:10px"/>
+<div style="height:10px">&sp;</div>
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
