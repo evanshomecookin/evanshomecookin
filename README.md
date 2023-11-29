@@ -29,7 +29,7 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
 
 
 <div align="center">
-<div style="margin-bottom:10px">
+<div style="margin-bottom:30px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="60" />
