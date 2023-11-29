@@ -15,7 +15,7 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
 --->
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="60" />
 </div>
 
 <figure><img style="border-radius:4px;width:500px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/14ed1254-1eb8-4fc3-aa2b-59a4ac2446d2.svg"></img></figure>
