@@ -7,15 +7,15 @@
   Building community in NYC and the world.
 </div>
 <div align="center">
-  Follow me:
-  <a href="https://www.linkedin.com/in/evan-ryan-dev" style="text-decoration:none">
+  Follow me: <a href="https://www.linkedin.com/in/evan-ryan-dev" style="text-decoration:none">linkedIn</a> | <a href="https://twitter.com/evanreesryan">twitter/x</a>
+<!--   <a href="https://www.linkedin.com/in/evan-ryan-dev" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="text-decoration:none"/>
   </a>
   &nbsp;
   <a href="https://twitter.com/evanreesryan">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
     </a>
-</div>
+</div> -->
 <div style="height:20px">&nbsp;</div>
 
 <!--
