@@ -8,7 +8,7 @@
 </div>
 <div align="center">
   Follow me:
-  <a href="https://www.linkedin.com/in/evan-ryan-dev">
+  <a href="https://www.linkedin.com/in/evan-ryan-dev" style="text-decoration:none">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
   </a>
   &nbsp;
