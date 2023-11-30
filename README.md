@@ -7,7 +7,7 @@
   Building community in NYC and the world.
 </div>
 <div align="center">
-  Follow me on &nbsp;<a href="https://www.linkedin.com/in/evan-ryan-dev" style="text-decoration:none">linkedIn</a>&nbsp; | &nbsp;<a href="https://twitter.com/evanreesryan">x(twitter)</a>
+  Follow me on &nbsp;<a href="https://www.linkedin.com/in/evan-ryan-dev" style="text-decoration:none">linkedIn</a>&nbsp; | &nbsp;<a href="https://twitter.com/evanreesryan">x (twitter)</a>
 <!--   <a href="https://www.linkedin.com/in/evan-ryan-dev" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="text-decoration:none"/>
   </a>
