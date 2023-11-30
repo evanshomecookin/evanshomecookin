@@ -11,6 +11,7 @@
   <a href="https://www.linkedin.com/in/evan-ryan-dev">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
   </a>
+  &nbsp;
   <a href="https://twitter.com/evanreesryan">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="50"/>
     </a>
