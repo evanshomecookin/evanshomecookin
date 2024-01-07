@@ -66,7 +66,7 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
 -->
 <div style="height:10px">&nbsp;</div>
 <div>
-<a href="https://wakatime.com"><img  src="https://wakatime.com/share/@evan100/7c453842-5986-41ce-bf2a-678ed31bbe25.png" style="width:600px;border-radius:10px"/></a>
+<a href="https://wakatime.com"><img  src="https://wakatime.com/share/@evan100/7c453842-5986-41ce-bf2a-678ed31bbe25.png" style="width:500px"/></a>
 </div>
 </div>
 <!---
