@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://evanryan.dev">🗂&nbsp; evanryan.dev</a>&nbsp; |&nbsp; full-stack developer</h1>
+<h1 align="center"><a href="https://evanryan.dev">🗂 evanryan.dev</a>&nbsp; |&nbsp; full-stack developer</h1>
 
 <div align="center">
   Hi, I'm Evan.
