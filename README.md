@@ -8,14 +8,7 @@
 </div>
 <div align="center">
   Follow me on &nbsp;<a href="https://www.linkedin.com/in/evan-ryan-dev" style="text-decoration:none">linkedIn</a>&nbsp; | &nbsp;<a href="https://twitter.com/evanreesryan">x (twitter)</a>
-<!--   <a href="https://www.linkedin.com/in/evan-ryan-dev" >
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" style="text-decoration:none"/>
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/evanreesryan">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
-    </a>
-</div> -->
+
 <div style="height:20px">&nbsp;</div>
 
 <!--
@@ -61,14 +54,12 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60"/>
 </div>
-<!--
-<figure><img style="border-radius:4px;width:500px" src="https://wakatime.com/share/@0dd08ff7-b57e-4827-bdfc-279693df8d92/14ed1254-1eb8-4fc3-aa2b-59a4ac2446d2.svg"></img></figure>
--->
+
 <div style="height:10px">&nbsp;</div>
-<div>
+<!--- 7 day badge: --->
+<!-- <div>
 <a href="https://wakatime.com"><img  src="https://wakatime.com/share/@evan100/7c453842-5986-41ce-bf2a-678ed31bbe25.png" style="width:500px"/></a>
+</div> -->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@evan100/2048886b-d097-4594-b81a-578e4106fa93.png" style="width:500px"/></a>
 </div>
-</div>
-<!---
-`(e) 050123`
---->
+
