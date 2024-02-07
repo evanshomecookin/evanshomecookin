@@ -55,6 +55,8 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60"/>
 </div>
 
+<a href="https://wakatime.com/@0dd08ff7-b57e-4827-bdfc-279693df8d92"><img src="https://wakatime.com/badge/user/0dd08ff7-b57e-4827-bdfc-279693df8d92.svg" alt="Total time coded since Feb 22 2023" /></a>
+
 <div style="height:10px">&nbsp;</div>
 <!--- 30 day badge: --->
 <!---
