@@ -56,10 +56,6 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
 </div>
 
 <div style="height:10px">&nbsp;</div>
-<!--- 7 day badge: --->
-<!--- <div>
-<a href="https://wakatime.com"><img  src="https://wakatime.com/share/@evan100/7c453842-5986-41ce-bf2a-678ed31bbe25.png" style="width:500px"/></a>
-</div> ---!>
 <!--- 30 day badge: --->
 <!---
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@evan100/2048886b-d097-4594-b81a-578e4106fa93.png" style="width:500px"/></a>
