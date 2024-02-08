@@ -59,11 +59,15 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
 [![wakatime](https://wakatime.com/badge/user/0dd08ff7-b57e-4827-bdfc-279693df8d92.svg)](https://wakatime.com/@0dd08ff7-b57e-4827-bdfc-279693df8d92)
 --->
 
-<div style="height:10px">&nbsp;</div>
+<!--- <div style="height:10px">&nbsp;</div> --->
+
 <!--- 30 day badge: --->
 <!---
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@evan100/2048886b-d097-4594-b81a-578e4106fa93.png" style="width:500px"/></a>
 --->
 </div>
+
+<!--- 7 day badge:
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@evan100/cfac2aee-0498-4b4a-a8a5-efbbdce1359f.png" style="width:500px" /></a>
+--->
 
