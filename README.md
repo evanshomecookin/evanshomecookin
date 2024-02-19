@@ -74,3 +74,5 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanhundred)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
+
