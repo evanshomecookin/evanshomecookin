@@ -72,7 +72,8 @@ TODO: detect presence of light or dark mode, and display badge with appropriate 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@evan100/cfac2aee-0498-4b4a-a8a5-efbbdce1359f.png" style="width:500px" /></a>
 --->
 
+<!---
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evanhundred)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)]
-
+--->
