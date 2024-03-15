@@ -36,5 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="60"/>
 </div>
 
+<div style="height:20px">&nbsp;</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanhundred)](https://github.com/anuraghazra/github-readme-stats)
 
