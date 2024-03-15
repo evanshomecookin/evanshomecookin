@@ -40,6 +40,9 @@
 
 [![Top Langs](https://[github-readme-stats.vercel.app](https://github-readme-stats.vercel.app/api/top-langs/?username=evanhundred&layout=donut-vertical)](github-readme-stats.vercel.app)
 
+
+[![Top Langs](https://gh-readme-stats-virid.vercel.app/api/top-langs/?username=evanhundred&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
   <img src="https://evanryan.dev/assets/ghReadme/stats-copy.png" style="height:20px" />
 </div>
