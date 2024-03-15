@@ -41,5 +41,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanhundred&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
-  <img src="https://evanryan.dev/assets/stats-copy.png" style="height:15px" />
+  <img src="https://evanryan.dev/assets/ghReadme/stats-copy.png" style="height:15px" />
 </div>
