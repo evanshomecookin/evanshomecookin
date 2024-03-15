@@ -38,13 +38,14 @@
 
 <div style="height:20px">&nbsp;</div>
 
+<!---
+
 <figure><img src="https://wakatime.com/share/@evan100/f6f847ff-c5ed-422d-9557-f427d06497b6.svg" style="height:400px"></img></figure>
 
-
-<!---
 [![Top Langs](https://gh-readme-stats-virid.vercel.app/api/top-langs/?username=evanhundred&layout=donut-vertical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://evanryan.dev/assets/ghReadme/stats-copy.png" style="height:20px" />
 </div>
+
 --->
