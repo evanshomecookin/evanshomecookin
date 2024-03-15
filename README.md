@@ -38,7 +38,7 @@
 
 <div style="height:20px">&nbsp;</div>
 
-[![Top Langs](https://gh-readme-stats-virid.vercel.app/api/top-langs/?username=evanhundred&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://gh-readme-stats-virid.vercel.app/api/top-langs/?username=evanhundred&layout=donut-vertical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img src="https://evanryan.dev/assets/ghReadme/stats-copy.png" style="height:20px" />
