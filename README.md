@@ -39,5 +39,7 @@
 <div style="height:20px">&nbsp;</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanhundred&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-<p style="font-size:10px">Stats data from github.</p>
-<font size="1">Stats data from github.</font>
+
+<div>
+  <img src="https://evanryan.dev/assets/stats-copy.png" style="height:15px" />
+</div>
