@@ -38,6 +38,10 @@
 
 <div style="height:20px">&nbsp;</div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!---
 
 <figure><img src="https://wakatime.com/share/@evan100/f6f847ff-c5ed-422d-9557-f427d06497b6.svg" style="height:400px"></img></figure>
