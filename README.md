@@ -39,6 +39,15 @@
 <div style="height:20px">&nbsp;</div>
 
 <!--START_SECTION:waka-->
+
+```txt
+Java             7 hrs 45 mins   ███████████████████▒░░░░░   77.29 %
+JavaScript       1 hr 22 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+SCSS             19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.18 %
+Markdown         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.44 %
+HTML             13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+```
+
 <!--END_SECTION:waka-->
 
 
