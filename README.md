@@ -38,6 +38,8 @@
 
 <div style="height:20px">&nbsp;</div>
 
+<!--
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -51,6 +53,8 @@ HTML             13 mins         ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+-->
 
 <!--
 languages chart uses wakatime stats: wakatime.com
