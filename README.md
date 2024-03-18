@@ -38,7 +38,7 @@
 
 <div style="height:20px">&nbsp;</div>
 
-<!-- options: [donut-vertical,compact,default] -->
+<!-- options: [donut-vertical,compact] -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanhundred&layout=default&count_private=true)](https://github.com/evanhundred/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanhundred&count_private=true)](https://github.com/evanhundred/github-readme-stats)
 
