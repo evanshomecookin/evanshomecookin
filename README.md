@@ -40,5 +40,5 @@
 
 <!-- options: [donut-vertical,compact] -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanhundred&count_private=true)](https://github.com/evanhundred/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=evanhundred&layout=compact&count_private=true)](https://github.com/evanhundred/github-readme-stats)
 
