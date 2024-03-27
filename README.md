@@ -10,7 +10,7 @@
   Follow me on &nbsp;<a href="https://www.linkedin.com/in/evan-ryan-dev" style="text-decoration:none">linkedIn</a>&nbsp; | &nbsp;<a href="https://twitter.com/evanreesryan">x (twitter)</a>
 </div>
 <div align="center">
-  🎸 &nbsp;<a href="https://youtube.com/@evanryanbass" style="text-decoration:none">YouTube</a>&nbsp; | 🎶 &nbsp;<a href="https://evanhundred.github.io/new-direction">New Direction</a>
+  🎵 &nbsp;<a href="https://youtube.com/@evanryanbass" style="text-decoration:none">YouTube</a>&nbsp; | &nbsp;🎶 &nbsp;<a href="https://evanhundred.github.io/new-direction">New Direction</a>
 </div>
 <div style="height:20px">&nbsp;</div>
 
